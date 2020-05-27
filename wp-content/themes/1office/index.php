@@ -47,13 +47,10 @@
                                 <img src="" alt="">
                             </div>
                             <div class="title">
-                                Công việc
+                                Workplace
                             </div>
                             <div class="description">
-                                Quản lý, giám sát chi tiết nhân sự và tiến độ mọi công việc 
-                            </div>
-                            <div class="see-more">
-
+                            	Kết nối mọi không gian làm việc trực tuyến
                             </div>
                         </div>
                     </div>
@@ -68,72 +65,57 @@
                             <div class="description">
                                 Quản lý, giám sát chi tiết nhân sự và tiến độ mọi công việc 
                             </div>
-                            <div class="see-more">
-
+                        </div>
+                    </div>
+                    <div class="box-item" data-url="#">
+                        <div class="inline-box">
+                            <div class="icon">
+                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/mang-noi-bo.svg" alt="">
+                            </div>
+                            <div class="title">
+                            	Mạng nội bộ
+                            </div>
+                            <div class="description">
+                            	Gắn kết mọi người, xây dựng văn hóa nội bộ.
                             </div>
                         </div>
                     </div>
                     <div class="box-item" data-url="#">
                         <div class="inline-box">
                             <div class="icon">
-                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/cong-viec.svg" alt="">
+                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/lich-bieu.svg" alt="">
                             </div>
                             <div class="title">
-                                Công việc
+                            	Lịch biểu
                             </div>
                             <div class="description">
-                                Quản lý, giám sát chi tiết nhân sự và tiến độ mọi công việc 
-                            </div>
-                            <div class="see-more">
-
+                                Sắp xếp lịch hẹn, lịch họp một cách khoa học, tránh bỏ sót
                             </div>
                         </div>
                     </div>
                     <div class="box-item" data-url="#">
                         <div class="inline-box">
                             <div class="icon">
-                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/cong-viec.svg" alt="">
+                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/don-tu.svg" alt="">
                             </div>
                             <div class="title">
-                                Công việc
+                            	Đơn từ
                             </div>
                             <div class="description">
-                                Quản lý, giám sát chi tiết nhân sự và tiến độ mọi công việc 
-                            </div>
-                            <div class="see-more">
-
+                            	Số hóa mọi đơn từ, thủ tục nội bộ.
                             </div>
                         </div>
                     </div>
                     <div class="box-item" data-url="#">
                         <div class="inline-box">
                             <div class="icon">
-                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/cong-viec.svg" alt="">
+                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/tai-lieu.svg" alt="">
                             </div>
                             <div class="title">
-                                Công việc
+                                Tài liệu
                             </div>
                             <div class="description">
-                                Quản lý, giám sát chi tiết nhân sự và tiến độ mọi công việc 
-                            </div>
-                            <div class="see-more">
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="box-item" data-url="#">
-                        <div class="inline-box">
-                            <div class="icon">
-                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/cong-viec.svg" alt="">
-                            </div>
-                            <div class="title">
-                                Công việc
-                            </div>
-                            <div class="description">
-                                Quản lý, giám sát chi tiết nhân sự và tiến độ mọi công việc 
-                            </div>
-                            <div class="see-more">
-
+                                Quản lý, chia sẻ tài liệu một cách thuận tiện, thông minh.
                             </div>
                         </div>
                     </div>
@@ -145,93 +127,75 @@
                                 <img src="" alt="">
                             </div>
                             <div class="title">
-                                Công việc
+                                HRM
                             </div>
                             <div class="description">
-                                Quản lý, giám sát chi tiết nhân sự và tiến độ mọi công việc 
-                            </div>
-                            <div class="see-more">
-
+                                Quản lý nhân sự chuyên nghiệp, toàn diện
                             </div>
                         </div>
                     </div>
                     <div class="box-item" data-url="#">
                         <div class="inline-box">
                             <div class="icon">
-                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/cong-viec.svg" alt="">
+                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/nhan-su.svg" alt="">
                             </div>
                             <div class="title">
-                                Công việc
+                                Nhân sự
                             </div>
                             <div class="description">
-                                Quản lý, giám sát chi tiết nhân sự và tiến độ mọi công việc 
-                            </div>
-                            <div class="see-more">
-
+                                Quản lý hồ sơ, chính sách cho người lao động
                             </div>
                         </div>
                     </div>
                     <div class="box-item" data-url="#">
                         <div class="inline-box">
                             <div class="icon">
-                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/cong-viec.svg" alt="">
+                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/tuyen-dung.svg" alt="">
                             </div>
                             <div class="title">
-                                Công việc
+                                Tuyển dụng
                             </div>
                             <div class="description">
-                                Quản lý, giám sát chi tiết nhân sự và tiến độ mọi công việc 
-                            </div>
-                            <div class="see-more">
-
+                                Số hóa quy trình, quản lý tuyển dụng thông minh
                             </div>
                         </div>
                     </div>
                     <div class="box-item" data-url="#">
                         <div class="inline-box">
                             <div class="icon">
-                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/cong-viec.svg" alt="">
+                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/danh-gia.svg" alt="">
                             </div>
                             <div class="title">
-                                Công việc
+                                Đánh giá
                             </div>
                             <div class="description">
-                                Quản lý, giám sát chi tiết nhân sự và tiến độ mọi công việc 
-                            </div>
-                            <div class="see-more">
-
+                                Kiểm soát năng suất, đánh giá năng lực nhân viên hiệu quả
                             </div>
                         </div>
                     </div>
                     <div class="box-item" data-url="#">
                         <div class="inline-box">
                             <div class="icon">
-                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/cong-viec.svg" alt="">
+                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/bang-luong.svg" alt="">
                             </div>
                             <div class="title">
-                                Công việc
+                                Bảng lương
                             </div>
                             <div class="description">
-                                Quản lý, giám sát chi tiết nhân sự và tiến độ mọi công việc 
-                            </div>
-                            <div class="see-more">
-
+                                Chấm công, tính lương và thanh toán lương nhanh chóng.
                             </div>
                         </div>
                     </div>
                     <div class="box-item" data-url="#">
                         <div class="inline-box">
                             <div class="icon">
-                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/cong-viec.svg" alt="">
+                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/tai-san.svg" alt="">
                             </div>
                             <div class="title">
-                                Công việc
+                                Tài sản
                             </div>
                             <div class="description">
-                                Quản lý, giám sát chi tiết nhân sự và tiến độ mọi công việc 
-                            </div>
-                            <div class="see-more">
-
+                                Quản lý chi tiết tài sản, giảm thiểu mất mát, hỏng hóc 
                             </div>
                         </div>
                     </div>
@@ -243,93 +207,75 @@
                                 <img src="" alt="">
                             </div>
                             <div class="title">
-                                Công việc
+                                CRM
                             </div>
                             <div class="description">
-                                Quản lý, giám sát chi tiết nhân sự và tiến độ mọi công việc 
-                            </div>
-                            <div class="see-more">
-
+                                Quản lý marketing, bán hàng thông minh, chuyên nghiệp
                             </div>
                         </div>
                     </div>
                     <div class="box-item" data-url="#">
                         <div class="inline-box">
                             <div class="icon">
-                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/cong-viec.svg" alt="">
+                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/marketing.svg" alt="">
                             </div>
                             <div class="title">
-                                Công việc
+                                Marketing
                             </div>
                             <div class="description">
-                                Quản lý, giám sát chi tiết nhân sự và tiến độ mọi công việc 
-                            </div>
-                            <div class="see-more">
-
+                                Quản lý hiệu của mọi chiến dịch marketing toàn diện
                             </div>
                         </div>
                     </div>
                     <div class="box-item" data-url="#">
                         <div class="inline-box">
                             <div class="icon">
-                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/cong-viec.svg" alt="">
+                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/khach-hang.svg" alt="">
                             </div>
                             <div class="title">
-                                Công việc
+                                Khách hàng
                             </div>
                             <div class="description">
-                                Quản lý, giám sát chi tiết nhân sự và tiến độ mọi công việc 
-                            </div>
-                            <div class="see-more">
-
+                                Quản lý thông tin liên hệ khách hàng chuyên nghiệp, khoa học
                             </div>
                         </div>
                     </div>
                     <div class="box-item" data-url="#">
                         <div class="inline-box">
                             <div class="icon">
-                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/cong-viec.svg" alt="">
+                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/cham-soc.svg" alt="">
                             </div>
                             <div class="title">
-                                Công việc
+                                Chăm sóc
                             </div>
                             <div class="description">
-                                Quản lý, giám sát chi tiết nhân sự và tiến độ mọi công việc 
-                            </div>
-                            <div class="see-more">
-
+                                Tối ưu hóa quy trình chăm sóc khách hàng
                             </div>
                         </div>
                     </div>
                     <div class="box-item" data-url="#">
                         <div class="inline-box">
                             <div class="icon">
-                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/cong-viec.svg" alt="">
+                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/hop-dong.svg" alt="">
                             </div>
                             <div class="title">
-                                Công việc
+                                Hợp đồng
                             </div>
                             <div class="description">
-                                Quản lý, giám sát chi tiết nhân sự và tiến độ mọi công việc 
-                            </div>
-                            <div class="see-more">
-
+                                Kiểm soát, lưu trữ mọi đơn hàng, hợp đồng, công nợ
                             </div>
                         </div>
                     </div>
                     <div class="box-item" data-url="#">
                         <div class="inline-box">
                             <div class="icon">
-                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/cong-viec.svg" alt="">
+                                <img src="<?php home_url() ?>/wp-content/uploads/2020/05/tai-chinh.svg" alt="">
                             </div>
                             <div class="title">
-                                Công việc
+                                Tài chính
                             </div>
                             <div class="description">
-                                Quản lý, giám sát chi tiết nhân sự và tiến độ mọi công việc 
-                            </div>
-                            <div class="see-more">
-
+                                Quản lý thu chi, quản lý dòng tiền nhanh chóng, tự động
                             </div>
                         </div>
                     </div>
@@ -365,7 +311,7 @@
                                 <div class="box-item">
                                     <div class="inline-box">
                                         <div class="icon">
-                                            <img src="<?php home_url() ?>/wp-content/uploads/2020/05/cong-viec.svg" alt="<?php the_title(); ?>">
+                                            <img src="<?php home_url() ?>/wp-content/uploads/2020/05/marketing.svg" alt="">
                                         </div>
                                         <div class="title">
                                             Tư duy sản phẩm
@@ -380,7 +326,7 @@
                                 <div class="box-item">
                                     <div class="inline-box">
                                         <div class="icon">
-                                            <img src="<?php home_url() ?>/wp-content/uploads/2020/05/cong-viec.svg" alt="<?php the_title(); ?>">
+                                            <img src="<?php home_url() ?>/wp-content/uploads/2020/05/khach-hang.svg" alt="">
                                         </div>
                                         <div class="title">
                                             Tích hợp & mở rộng
@@ -395,7 +341,7 @@
                                 <div class="box-item">
                                     <div class="inline-box">
                                         <div class="icon">
-                                            <img src="<?php home_url() ?>/wp-content/uploads/2020/05/cong-viec.svg" alt="<?php the_title(); ?>">
+                                            <img src="<?php home_url() ?>/wp-content/uploads/2020/05/cham-soc.svg" alt="">
                                         </div>
                                         <div class="title">
                                             Tùy biến & tự động
@@ -410,7 +356,7 @@
                                 <div class="box-item">
                                     <div class="inline-box">
                                         <div class="icon">
-                                            <img src="<?php home_url() ?>/wp-content/uploads/2020/05/cong-viec.svg" alt="<?php the_title(); ?>">
+                                            <img src="<?php home_url() ?>/wp-content/uploads/2020/05/hop-dong.svg" alt="">
                                         </div>
                                         <div class="title">
                                             Chi phí rẻ & linh hoạt
