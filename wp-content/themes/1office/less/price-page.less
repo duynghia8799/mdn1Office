@@ -1,0 +1,292 @@
+#price-page {
+	.section-title {
+		h2 {
+			color: #d34f20;
+		}
+	}
+}
+.main-price {
+	padding: 60px 0 0;
+	.table-price {
+		display: block;
+		margin: 100px 0 0;
+		.section-table {
+			box-shadow: 0 14px 80px 0 rgba(21,27,38,.06);
+		    display: flex;
+		    flex-direction: row;
+		    justify-content: center;
+		    &:last-child {
+		    	border-bottom-left-radius: 4px;
+    			border-bottom-right-radius: 4px;
+    			background: #f6f8f9;
+    border-top: 1px solid #dee4e7;
+		    }
+		    .element-table {
+		    	background-color: #fff;
+			    display: flex;
+			    flex-basis: 33.33%;
+			    flex-direction: column;
+			    justify-content: space-between;
+			    padding: 45px 45px calc(5px + 30px);
+			    text-align: center;
+			    &.element-middle {
+			    	border-left: 1px solid #dee4e7;
+				    border-radius: 4px 4px 0 0;
+				    border-right: 1px solid #dee4e7;
+				    border-top: 1px solid #dee4e7;
+				    margin-top: -28px;
+				    position: relative;
+			    }
+			    .name-price {
+			    	color: #132050;
+				    font-size: 32px;
+				    font-weight: 400;
+				    line-height: 40px;
+				    padding-bottom: 15px;
+				    text-transform: uppercase;
+			    }
+			    .detail-price {
+					align-items: center;
+				    display: flex;
+				    flex-direction: column;
+				    justify-content: flex-end;
+				    .option-price {
+				    	display: flex;
+    					.price {
+    						color: #132050;
+						    font-size: 36px;
+						    font-weight: 500;
+						    line-height: 40px;
+						    display: flex;
+						    margin-right: 10px;
+    					}
+    					.option {
+    						display: flex;
+						    flex-direction: column;
+						    font-size: 13px;
+						    font-weight: 500;
+						    justify-content: center;
+						    line-height: 20px;
+						    text-align: left;
+						    .note-option {
+						    	color: #6f7782;
+    							font-weight: 400;
+						    }
+    					}
+				    }
+				    .button-website {
+						#btn-registration {
+							font-size: 18px;
+							height: 45px;
+							line-height: 45px;
+						}
+				    }
+			    }
+		    }
+		    .infor-price {
+		    	background-color: #f6f8f9;
+			    border-top: 1px solid #e8ecee;
+			    flex-basis: 33.33333333%;
+			    padding: 30px 40px;
+			    &:not(:last-child) {
+			    	border-right: 1px solid #dee4e7;
+			    }
+			    .title {
+			    	font-size: 16px;
+				    font-weight: 500;
+				    line-height: 24px;
+				    padding-bottom: 15px;
+			    }
+			    .list-option {
+				    box-sizing: border-box;
+				    display: flex;
+				    flex-direction: column;
+				    width: 100%;
+				    .option {
+				    	color: #6f7782;
+					    display: flex;
+					    font-size: 16px;
+					    line-height: 24px;
+					    &:not(:first-child) {
+					    	margin-top: 15px;
+					    }
+					    .icon {
+					    	align-items: center;
+						    display: flex;
+						    fill: #f15822;
+						    flex: 0 0 auto;
+						    height: 24px;
+						    margin-right: 10px;
+						    svg {
+						    	height: 16px;
+							    width: 16px;
+							    overflow: hidden;
+						    }
+					    }
+				    }
+			    }
+		    }
+		    .note {
+		    	width: 100%;
+			    display: flex;
+			    margin: 30px 0 0;
+			    font-style: normal;
+			    font-weight: 400;
+			    padding: 0 30px;
+			    font-size: 16px;
+			    line-height: 24px;
+			    color: #666;
+			    .note-detail {
+			    	margin-left: 20px;
+			    }
+		    }
+		}
+	}
+}
+.main-table {
+	padding: 60px 0 0;
+	.table {
+		padding-top: 50px;
+		width: 100%;
+		table {
+			width: 100%;
+		    margin-bottom: 15px;
+		    border-collapse: collapse;
+		    border-spacing: 0;
+		    border-radius: 5px;
+		    thead {
+		    	background: #f15822;
+		    	th {
+		    		color: #fff;
+				    font-weight: 500;
+				    padding: 25px;
+				    border: 1px solid #fff;
+				    text-transform: uppercase;
+		    	}
+		    }
+		    tbody {
+		    	tr {
+		    		&:nth-child(2n) {
+		    			td {
+		    				background: rgba(0,0,0,0.01);
+		    			}
+		    		}
+		    		td {
+		    			border: 1px solid rgba(0,0,0,.08);
+		    			text-align: center;
+		    		}
+		    		th {
+		    			padding: 30px;
+					    text-align: left;
+					    font-weight: 500;
+					    color: #333;
+					    border: 1px solid rgba(0,0,0,.08);
+		    		}
+		    	}
+		    }
+		}
+	}
+}
+.main-advance {
+	padding: 60px 0 0;
+	.list-advance {
+		padding: 20px 0 0;
+		.banner {
+			grid-gap: 20px;
+			.col-banner-left {
+				.content {
+					text-align: right;
+					display: block;
+	    			padding-right: 30px;
+				}
+			}
+			.col-banner-right {
+				.box-advance {
+					flex-direction: row-reverse;
+				}
+				.content {
+					text-align: left;
+					padding-left: 30px;
+				}
+			}
+			.box-advance {
+				display: flex;
+			    flex-direction: row;
+			    align-items: center;
+			    margin: 40px 0 0;
+			    padding: 0;
+			    width: 100%;
+			    margin-bottom: 20px;
+			    .title {
+			    	h3 {
+			    		color: #303030;
+					    font-weight: 500;
+					    font-size: 24px;
+					    line-height: 34px;
+					    font-style: normal;
+					    padding-bottom: 20px;
+			    	}
+			    }
+			    .detail {
+			    	font-size: 16px;
+				    font-weight: 400;
+				    line-height: 23px;
+				    color: #303030;
+			    }
+			    .icon {
+			    	img {
+			    		width: 60px;
+			    		height: 60px;
+			    	}
+			    }
+			}
+		}
+	}
+}
+.main-faq {
+	padding: 60px 0 0;
+	.list-faq {
+		display: flex;
+	    flex-direction: column;
+	    width: 80%;
+	    margin:50px auto 0;
+	    align-items: center;
+	    .item-faq {
+	    	margin-bottom: 30px;
+	    	.question {
+	    		font-weight: 500;
+				font-size: 24px;
+				line-height: 35px;
+				color: #303030;
+				cursor: default;
+	    	}
+	    	.answer {
+			    font-size: 18px;
+			    line-height: 30px;
+			    font-weight: 300;
+			    margin: 15px 0 10px;
+			    text-align: justify;
+	    	}
+	    }
+	}
+}
+.bgr-cta {
+	background-color: #f15822;
+	.section-cta {
+		padding: 60px 0;
+		.section-title {
+			h2 {
+				color: #fff !important;
+			}
+		}
+		.section-sub-title {
+			h3 {
+				color: #fff;
+			}
+		}
+		#btn-registration {
+			background: #fff;
+			color: #f15822;
+		}
+	}
+}

@@ -23,10 +23,10 @@
                             <i class="fa fa-angle-down"></i>
                         </li>
                         <li class="item-menu">
-                            <a href="">Bảng giá</a>
+                            <a href="<?php home_url() ?>/bang-gia/">Bảng giá</a>
                         </li>
                         <li class="item-menu">
-                            <a href="">Khách hàng</a>
+                            <a href="<?php home_url() ?>/khach-hang/">Khách hàng</a>
                         </li>
                         <li class="item-menu">
                             <a href="">Tuyển dụng</a>
