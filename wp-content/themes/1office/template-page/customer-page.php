@@ -28,7 +28,128 @@ get_header();
 				</div>
 			</div>
 		</div>
-		<?php /*Đây là chỗ để slide, nhưng làm sau*/ ?>
+		<div class="section-full-width">
+			<div class="bgr-slide">
+				<div class="container">
+					<div class="swiper-container">
+						<div class="swiper-wrapper">
+							<div class="swiper-slide">
+								<div class="banner">
+									<div class="col-banner-right">
+										<img src="<?php home_url() ?>/wp-content/uploads/2020/05/customer-1.png">
+									</div>
+									<div class="col-banner-left">
+										<div class="title-banner">
+											<h1>
+												Anh Dương Cảnh Quân
+											</h1>
+										</div>
+										<div class="sub-title-banner">
+											<h3>
+												CEO Cộng Cà Phê
+											</h3>
+										</div>
+										<div class="description-banner">
+											Việc đồng bộ hoá quy chuẩn là một trong những tiêu chí tối quan trọng của kinh doanh theo chuỗi nhượng quyền. Điều này không phải chỉ được thực hiện ở những hạng mục thiết kế cửa hàng, danh mục sản phẩm,... mà còn phải được đồng nhất trên toàn hệ thống trong những công việc quản lí nhân sự, chấm công, quản lí dự án... của các bộ phận back office. Giải pháp của 1Office đã giúp hệ thống Cộng Cà Phê đơn giản, tự động hoá và tiết kiệm chi phí cũng như nhân lực trong việc quản lí tổng thể gần như tất cả các công việc, thay vì dùng nhiều giải pháp nhỏ lẻ cùng một lúc như trước đây.
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="swiper-slide">
+								<div class="banner">
+									<div class="col-banner-right">
+										<img src="<?php home_url() ?>/wp-content/uploads/2020/05/customer-4.png">
+									</div>
+									<div class="col-banner-left">
+										<div class="title-banner">
+											<h1>
+												Chị Nguyễn Thanh Phương
+											</h1>
+										</div>
+										<div class="sub-title-banner">
+											<h3>
+												Giám đốc nhân sự K&G
+											</h3>
+										</div>
+										<div class="description-banner">
+											Trước khi biết đến 1Office thì tháng nào bộ phận Nhân sự mất rất nhiều thời gian đề xuất bảng công ra Excel và gửi cho các nhân sự kiểm tra lại cộng của mình sau đó mới làm công thức để tính lương. Kể từ khi dùng phần mềm quản lý tổng thế doanh nghiệp 1Office thì phòng nhân sự không cần phải xuất dữ liệu excel nữa và mỗi người có thể tự xem được bảng lương và bảng chấm công của mình ngay trên đó. Thay vì việc hàng ngày các bạn phải báo cáo lại doanh số bán hàng cho trưởng nhóm qua zalo, thì bây giờ mỗi ngày chỉ cần dành ra 1-2 phút là đã có thể khai báo doanh số của mình và cấp trên có hể nằm được ngay.
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="swiper-slide">
+								<div class="banner">
+									<div class="col-banner-right">
+										<img src="<?php home_url() ?>/wp-content/uploads/2020/05/customer-5.png">
+									</div>
+									<div class="col-banner-left">
+										<div class="title-banner">
+											<h1>
+												Anh Nguyễn Khánh Trình
+											</h1>
+										</div>
+										<div class="sub-title-banner">
+											<h3>
+												CEO Phong Vũ miền Bắc
+											</h3>
+										</div>
+										<div class="description-banner">
+											Kinh doanh thiết bị điện tử hiện đang là một trong những ngành hàng cạnh tranh khốc liệt bậc nhất hiện nay tại Việt Nam, do đó cắt giảm chi phí mà vẫn đảm bảo bộ máy hoạt động trơn tru hiệu quả là một trong những ưu tiên tối quan trọng của Phong Vũ. So với sử dụng tổ hợp nhiều phần mềm cho các công việc quản lí khác nhau, giải pháp đa năng của 1Office đã giúp Phong Vũ kiểm soát và theo dõi chặt chẽ hơn từ vấn đề nhân sự đến tiến độ công việc, với chi phí trung bình chỉ xấp xỉ 1,000 đồng mỗi ngày.
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="swiper-slide">
+								<div class="banner">
+									<div class="col-banner-right">
+										<img src="<?php home_url() ?>/wp-content/uploads/2020/05/customer-3.png">
+									</div>
+									<div class="col-banner-left">
+										<div class="title-banner">
+											<h1>
+												Anh Lê Phúc Khánh
+											</h1>
+										</div>
+										<div class="sub-title-banner">
+											<h3>
+												CEO Trà sữa Toco Toco
+											</h3>
+										</div>
+										<div class="description-banner">
+											Sau khi biết đến và triển khai cài đặt phần mềm 1Office, chúng tôi hoàn toàn dễ dàng kiểm soát việc chấm công cho khối văn phòng cũng như 80 cửa hàng, giải quyết được việc phân ca phức tạp cũng như hỗ trợ quản lý đổi ca, tăng ca, làm thêm bằng hệ thống phân ca và đơn từ. 1Office hoàn toàn giúp chúng tôi trong việc xây dựng bảng lương, tính toán lương, giảm bớt được lượng thời gian một cách đáng kể.
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="swiper-slide">
+								<div class="banner">
+									<div class="col-banner-right">
+										<img src="<?php home_url() ?>/wp-content/uploads/2020/05/customer-2.png">
+									</div>
+									<div class="col-banner-left">
+										<div class="title-banner">
+											<h1>
+												Anh Phùng Anh Tuấn
+											</h1>
+										</div>
+										<div class="sub-title-banner">
+											<h3>
+												CEO F88
+											</h3>
+										</div>
+										<div class="description-banner">
+											Sau khi biết đến và triển khai cài đặt phần mềm 1Office, chúng tôi hoàn toàn dễ dàng kiểm soát việc chấm công cho khối văn phòng cũng như 80 cửa hàng, giải quyết được việc phân ca phức tạp cũng như hỗ trợ quản lý đổi ca, tăng ca, làm thêm bằng hệ thống phân ca và đơn từ. 1Office hoàn toàn giúp chúng tôi trong việc xây dựng bảng lương, tính toán lương, giảm bớt được lượng thời gian một cách đáng kể.
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-pagination">
+                    	</div>
+					</div>
+				</div>
+			</div>
+		</div>
 		<div class="container">
 			<div class="story">
 				<div class="section-title">

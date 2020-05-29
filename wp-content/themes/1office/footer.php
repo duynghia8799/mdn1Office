@@ -232,7 +232,7 @@
 									</li>
 									<li>
 										<a href="#">
-											Quy lý CSKH
+											Quản lý CSKH
 										</a>
 									</li>
 								</ul>

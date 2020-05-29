@@ -1,6 +1,6 @@
 <?php
 /*
-* Template name: Nâng cao kiến thức
+* Template name: Nâng Cao Kiến Thức
 */
 	get_header('custom');
 	$getPost = new WP_Query (

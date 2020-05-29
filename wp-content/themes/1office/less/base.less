@@ -158,6 +158,11 @@ img {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr;
     grid-template-areas: ". .";
+    .col-banner-right {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
     .col-banner-left {
         display: flex;
         flex-direction: column;
@@ -197,4 +202,23 @@ img {
             }
         }
     }
+}
+#banner-feature {
+    padding-bottom: 60px;
+    .banner {
+        grid-gap: 30px;
+    }
+}
+.icon-home {
+    padding-bottom: 20px;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    img {
+        width: 50px;
+        height: 50px;
+    }
+}
+.group-feature {
+    padding: 60px 0;
 }

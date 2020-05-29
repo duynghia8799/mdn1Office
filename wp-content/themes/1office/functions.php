@@ -12,6 +12,15 @@ if (function_exists('acf_add_options_page')) {
             )
     );
 }
+// Add more css and scripts
+function add_theme_scripts()
+{
+    wp_enqueue_style('swipercss', get_template_directory_uri() . '/plugins/swiper/css/swiper.min.css', array(), '1.0',);
+    wp_enqueue_script('jQuery', get_template_directory_uri() . '/plugins/jQuery/jquery-3.5.1.min.js', array(), '1.1', true);
+    wp_enqueue_script('swiperjs', get_template_directory_uri() . '/plugins/swiper/js/swiper.min.js', array(), '1.1', true);
+    wp_enqueue_script('mainjs', get_template_directory_uri() . '/js/main.js', array(), '1.1', true);
+}
+add_action('wp_enqueue_scripts', 'add_theme_scripts');
 // Require file custom post type
 require get_template_directory() . '/register/support-feature.php';
 require get_template_directory() . '/register/support-news.php';
@@ -20,7 +29,6 @@ require get_template_directory() . '/register/support-tip.php';
 // Enable something
 function enable_something() {
     add_theme_support('post-thumbnails');
-
     add_theme_support('html5', array(
         'search-form',
         'comment-form',
@@ -29,12 +37,8 @@ function enable_something() {
         'caption'
     ));
 }
-
 add_action('after_setup_theme', 'enable_something');
-/*
- * Count View
- */
-
+// Count View
 function getPostViews($postID) {
     $count_key = 'post_views_count';
     $count = get_post_meta($postID, $count_key, true);
@@ -44,10 +48,8 @@ function getPostViews($postID) {
 
         return "0";
     }
-
     return $count;
 }
-
 function setPostViews($postID) {
     $count_key = 'post_views_count';
     $count = get_post_meta($postID, $count_key, true);
@@ -60,5 +62,4 @@ function setPostViews($postID) {
         update_post_meta($postID, $count_key, $count);
     }
 }
-
 ?>
