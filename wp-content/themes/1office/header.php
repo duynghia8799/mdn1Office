@@ -19,8 +19,8 @@
                     </div>
                     <ul class="main-menu">
                         <li class="item-menu">
-                            <a href="">Tính năng</a>
-                            <i class="fa fa-angle-down"></i>
+                            <a href="javascript:void()">Tính năng</a>
+                            <img src="<?php home_url() ?>/wp-content/themes/1office/images/icons/commons/arrow.svg">
                         </li>
                         <li class="item-menu">
                             <a href="<?php home_url() ?>/bang-gia/">Bảng giá</a>
@@ -29,7 +29,7 @@
                             <a href="<?php home_url() ?>/khach-hang/">Khách hàng</a>
                         </li>
                         <li class="item-menu">
-                            <a href="">Tuyển dụng</a>
+                            <a href="<?php home_url() ?>/tuyen-dung/">Tuyển dụng</a>
                         </li>
                         <li class="item-menu">
                             <a href="">Blog</a>

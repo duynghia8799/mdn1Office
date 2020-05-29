@@ -27,6 +27,19 @@
         .item-menu {
             &:first-child {
                 margin-left: 0;
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                img {
+                    width: 20px;
+                    height: 20px;
+                    transition: all .5s;
+                }
+                &:hover {
+                    img {
+                        transform: rotate(180deg);
+                    }
+                }
             }
         }
         .item-menu {
